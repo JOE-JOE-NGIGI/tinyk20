@@ -1,4 +1,4 @@
-update=Tue 17 May 2016 11:09:44 AM EAT
+update=Sat 28 May 2016 01:01:16 PM EAT
 version=1
 last_client=kicad
 [cvpcb]
@@ -18,6 +18,25 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=1.9
+PadSizeV=2.4
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.09999999999999999
+ModuleOutlineThickness=0.15
 [eeschema]
 version=1
 LibDir=
@@ -56,22 +75,3 @@ LibName31=tinyK20-cache
 LibName32=Freescale
 LibName33=BAS40-05
 LibName34=/home/joe--ngigi/Desktop/ki_cad/105027-0001/library/105027-0001
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=
-PadDrill=0
-PadDrillOvalY=0
-PadSizeH=1.9
-PadSizeV=2.4
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.09999999999999999
-ModuleOutlineThickness=0.15
